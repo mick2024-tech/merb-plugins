@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Update Colab notebook for YOLOv8.1 (#8660)
