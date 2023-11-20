@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+docs: update view-results-in-terminal.md (#66)
