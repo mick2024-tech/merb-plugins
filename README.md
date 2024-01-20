@@ -1,1 +1,1 @@
-added badges (#45)
+Add integrations/gradio Docs page (#7935)
