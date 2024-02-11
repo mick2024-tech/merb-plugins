@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
