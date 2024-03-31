@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Fix tfjs exports for ARM64 Dockerfile (#8766)
