@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+New HUB Cloud Training docs page (#8174)
